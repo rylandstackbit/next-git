@@ -47,6 +47,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: images/12.jpg
   - section_id: features
     type: section_features
     background: gray
